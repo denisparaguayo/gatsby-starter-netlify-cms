@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Blog de Denis',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      '¡Bienvenidos a mi rincón digital dedicado al apasionante mundo de la tecnología! En este blog, exploraremos las últimas tendencias, noticias y avances en el ámbito tecnológico. Desde reseñas de gadgets y dispositivos hasta análisis profundos de innovaciones emergentes, encontrarás aquí contenido fresco y enriquecedor para mantenerte al día con el vertiginoso universo tecnológico. Acompáñame en este viaje mientras desentrañamos los misterios del código',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
