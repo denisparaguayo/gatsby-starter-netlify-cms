@@ -1,63 +1,55 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Expertos en Creación de Páginas Web en Paraguay
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Diseños Web Atractivos y Funcionales para Tu Negocio
+subheading: Destaca en Línea con Nuestros Servicios de Diseño y Desarrollo Web
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Potencia Tu Presencia en Internet
+  description: En WEBPY, ofrecemos soluciones de diseño y desarrollo web de primer
+    nivel en Paraguay. Nuestro equipo de expertos transformará tus ideas en
+    sitios web profesionales y atractivos que atraerán a tus clientes y
+    aumentarán tu presencia en línea.
+description: En WebPy, nos enorgullece ser líderes en el mercado de diseño y
+  desarrollo web en Paraguay. Ofrecemos servicios personalizados que se adaptan
+  a las necesidades únicas de tu negocio. Nuestra experiencia y compromiso con
+  la calidad nos convierten en la elección ideal para tu proyecto web.
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: Nuestro servicio de diseño web personalizado te proporciona un sitio web
+        único y atractivo que refleja la esencia de tu marca. Cada detalle se
+        adapta a tus necesidades y objetivos, brindándote una presencia en línea
+        que destaca
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Nuestro enfoque en el desarrollo web optimizado para SEO garantiza que
+        tu sitio web no solo se vea bien, sino que también se clasifique bien en
+        los motores de búsqueda. Atrae a más visitantes y aumenta tu visibilidad
+        en línea.
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: Creamos tiendas en línea efectivas que te permiten vender tus productos o
+        servicios en línea de manera eficiente. Maximiza tus ventas y llega a un
+        público más amplio con una tienda en línea profesional.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+        No te preocupes por la gestión técnica de tu sitio web. Ofrecemos
+        servicios de mantenimiento y soporte continuo para garantizar que tu
+        sitio funcione sin problemas y esté siempre actualizado.
+  heading: Tu Socio Confiable en el Mundo Digital
+  description: En un mundo digital en constante evolución, contar con un socio
+    confiable es esencial. En WebPy, entendemos tus metas y te ayudamos a
+    alcanzarlas con soluciones web a medida. Descubre cómo podemos llevar tu
+    negocio al siguiente nivel en línea.
 main:
-  heading: Great coffee with no compromises
+  heading: Servicios de Creación de Páginas Web en Paraguay
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    "Nuestros servicios de creación de páginas web en Paraguay están diseñados
+    para adaptarse a las necesidades de tu empresa. Ya sea que necesites un
+    sitio web corporativo, una tienda en línea o una plataforma de blogs,
+    tenemos la experiencia y la creatividad para hacerlo realidad. Trabajamos
+    contigo en cada paso del camino para garantizar que tu presencia en línea
+    sea un éxito.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
